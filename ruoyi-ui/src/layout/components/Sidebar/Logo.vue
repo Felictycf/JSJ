@@ -35,7 +35,7 @@ export default {
   },
   data() {
     return {
-      title: '若依管理系统',
+      title: 'Python自动化管理',
       logo: logoImg
     }
   }
